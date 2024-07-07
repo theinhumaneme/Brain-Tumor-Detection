@@ -17,9 +17,9 @@ Frameworks used:
 Project Related Files:
 -
 
-- [Dataset](https://drive.google.com/drive/folders/1YYzKsrg2J7N0lGR3Z8i_mX7OA8uhCAT_?usp=sharing)
-- [Model](https://drive.google.com/file/d/1NH83hYtN99ct__d1oWDGjBoCMoGDOPga/view?usp=sharing)
-- [Video Explanation](https://drive.google.com/file/d/1QHGl7nJM-lukYF98eFhArpOYZLT3pSST/view?usp=sharing)
+- [Dataset](./dataset/)
+- [Model](./BTD2.h5)
+- [Video Explanation](https://youtu.be/JFPtDCayxjo  )
 
 Project Members
 -
@@ -31,4 +31,3 @@ Project Members
 
 [Original Repository](https://github.com/smartinternz02/SI-GuidedProject-2330-1622050371)
 -
-
